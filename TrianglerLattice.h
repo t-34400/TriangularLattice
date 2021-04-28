@@ -2,7 +2,7 @@
 #include <vector>
 
 template <class T>
-class TriangleLattice
+class TrianglerLattice
 {
 private:
 	std::vector<T> m_value;
