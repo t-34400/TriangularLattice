@@ -20,8 +20,8 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="TriangularLattice.cpp">
+    <None Include="TriangularLattice.inl">
       <Filter>ソース ファイル</Filter>
-    </ClCompile>
+    </None>
   </ItemGroup>
 </Project>
