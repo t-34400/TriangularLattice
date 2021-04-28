@@ -2,11 +2,13 @@
 #include <vector>
 
 template <class T>
-class TrianglerLattice
+class TriangularLattice
 {
 private:
 	std::vector<T> m_value;
 
 public:
-	TriangleLattice();
+	TriangularLattice(int x, int y);
+
+
 };
